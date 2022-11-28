@@ -9,8 +9,34 @@ Las estructuras son:
 - while
 
 ## Etapa 2.Especificaciones
+1. Entrada:
+  - For:
+    - Ejemplo 1:
+       - int numero
+    - Ejemplo 2:
+       - int mes
+    - Ejemplo 3:
+       - int xumero
+       - int numero
+  - While
+    - Ejemplo 1:
+       - int i
+    - Ejemplo 2:
+       - int contador
+       - int fin
+    - Ejemplo 3: 
+       - int decimal
+       - String binario
+
+2. Proceso:
+
+
+3. Salida:
+
 
 ## Etapa 3. Diseño de la solución
+
+Diagrama de la clase
 
 ## Etapa 4. Desarrollo de la solución.
 
