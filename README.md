@@ -8,4 +8,8 @@ Las estructuras son:
 - for
 - while
 
-## Etapa 2.Diseño de solución
+## Etapa 2.Especificaciones
+
+## Etapa 3. Diseño de la solución
+
+
