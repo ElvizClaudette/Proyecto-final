@@ -27,7 +27,12 @@ Las estructuras son:
     - Ejemplo 3: 
        - int decimal
        - String binario
-
+  - If else:
+    - Ejemplo 1:
+       -
+  - Switch:    
+    - Ejemplo 1:
+       - 
 2. Proceso:
 
 
