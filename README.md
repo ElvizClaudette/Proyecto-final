@@ -28,10 +28,10 @@ Las estructuras son:
        - int decimal
        - String binario
   - If else:
-    - Ejemplo 1:
+    
        -
   - Switch:    
-    - Ejemplo 1:
+   
        - 
 2. Proceso:
 
