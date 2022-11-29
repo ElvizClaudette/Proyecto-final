@@ -39,6 +39,7 @@ Las estructuras son:
        - Menu
 2. Proceso:
 
+  - Mostrar ejemplos de estructuras de control
 
 3. Salida:
 ~~~
