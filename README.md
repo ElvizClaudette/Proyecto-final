@@ -41,7 +41,17 @@ Las estructuras son:
 
 
 3. Salida:
-
+~~~
+ +--------------------------------------------------+
+ |         MENÚ DE EJEMPLOS DE PROGRAMACIÓN         |
+ +--------------------------------------------------+
+ | 1. EJEMPLO DE IF ELSE:                           |
+ | 2. EJEMPLO DE SWITCH:                            |
+ | 3. EJEMPLO DE FOR:                               |
+ | 4. EJEMPLO DE WHILE:                             |
+ | 5. SALIR                                         |
+ +--------------------------------------------------+
+~~~ 
 
 ## Etapa 3. Diseño de la solución
 
