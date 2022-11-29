@@ -9,47 +9,24 @@ Las estructuras son:
 - while
 
 ## Etapa 2.Especificaciones
-1. Entrada:
-  - For:
-    - Ejemplo 1:
-       - int numero
-    - Ejemplo 2:
-       - int mes
-    - Ejemplo 3:
-       - int xumero
-       - int numero
-  - While
-    - Ejemplo 1:
-       - int i
-    - Ejemplo 2:
-       - int contador
-       - int fin
-    - Ejemplo 3: 
-       - int decimal
-       - String binario
-  - If else:
-    - Ejemplo 1:
-       - int tem
-    - Ejemplo 2: 
-       - int dis
-    - Ejemplo 3:
-       - int num
-       - int div
-  - Switch:    
-       - Menu
-2. Proceso:
 
-  - Mostrar ejemplos de estructuras de control
-
-3. Salida:
 ~~~
  +--------------------------------------------------+
  |         MENÚ DE EJEMPLOS DE PROGRAMACIÓN         |
  +--------------------------------------------------+
  | 1. EJEMPLO DE IF ELSE:                           |
- | 2. EJEMPLO DE SWITCH:                            |
+ |  - Ejemplo 1:                                    |
+ |  - Ejemplo 2:                                    |
+ |  - Ejemplo 3:                                    |
+ | 2. EJEMPLO DE SWITCH:                            | 
  | 3. EJEMPLO DE FOR:                               |
+ |  - Ejemplo 1:                                    |
+ |   - Ejemplo 2:                                   |
+ |   - Ejemplo 3:                                   |
  | 4. EJEMPLO DE WHILE:                             |
+ |  - Ejemplo 1:                                    | 
+ |   - Ejemplo 2:                                   |
+ |   - Ejemplo 3:                                   |
  | 5. SALIR                                         |
  +--------------------------------------------------+
 ~~~ 
