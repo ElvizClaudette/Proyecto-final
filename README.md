@@ -1,4 +1,8 @@
-# Proyecto-final Integrantes: Sanchez Juarez Luis Fernando, Garrido Osorio Elviz Claudette,Andrés Leal Norberto
+# Proyecto-final 
+## Integrantes: 
+- Sanchez Juarez Luis Fernando
+- Garrido Osorio Elviz Claudette
+- Andrés Leal Norberto
 
 ## Etapa 1.Descripción del problema
 Crear una aplicacion en Java en donde se muestren ejemplos de las estructuras de control vistas en la materia 
