@@ -28,8 +28,13 @@ Las estructuras son:
        - int decimal
        - String binario
   - If else:
-    
-       -
+    - Ejemplo 1:
+       - int tem
+    - Ejemplo 2: 
+       - int dis
+    - Ejemplo 3:
+       - int num
+       - int div
   - Switch:    
    
        - 
