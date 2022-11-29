@@ -36,8 +36,7 @@ Las estructuras son:
        - int num
        - int div
   - Switch:    
-   
-       - 
+       - Menu
 2. Proceso:
 
 
